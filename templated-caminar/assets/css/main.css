@@ -1628,7 +1628,7 @@
 		}
 
 	body {
-		background-color: darkgray;
+		background-color: lightgray;
 		color: rgba(0, 0, 0, 0.5);
 	}
 
@@ -2903,7 +2903,7 @@
 /* Header */
 
 	body {
-		background-color: #1e1f23;
+		background-color: darkgray;
 		padding-top: 2rem;
 	}
 
