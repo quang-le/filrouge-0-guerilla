@@ -7,9 +7,9 @@ Learning project divided in 6 phases, spread out throughout the BeCode training.
 
 
 This exercise is Phase 1 "Guerilla style"
- Create a one-pager answering clients problems in 6 hours. *Done on 30/05/2018* [Briefing](https://github.com/becodeorg/lovelace-2/blob/master/Projects/fil-rouge/phase-1.md);
+ Create a one-pager answering clients problems in 6 hours [(Briefing)](https://github.com/becodeorg/lovelace-2/blob/master/Projects/fil-rouge/phase-1.md). *Done on 30/05/2018* 
 
-2. **Outcomes**
+2. **Outcomes**)
  
     1. The client
 
