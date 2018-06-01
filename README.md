@@ -90,15 +90,44 @@ Learning project divided in 6 phases, spread out throughout the BeCode training.
   Content-wise, I had to cut and rephrase the presentation (Who they are). I also had te rephrase and re-organize "what they do" as it wasn't clear in the original website (overlapping categories). I also wanted to implement an agenda, but dropped the idea, as I couldn't find a way to visually integrate it to the template, and the last agenda update on the website was from 2017.
 
   5. Result
-  
-  The one-page has been deployed on [http://ctv-medias.tk/](http://ctv-medias.tk/)
-  Here's how it looks:
-  ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-01.png)
-   ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-16.png)
-   ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-27.png)  
+
+   1. The page
+    The one-page has been deployed on [http://ctv-medias.tk/](http://ctv-medias.tk/)
+    Here's how it looks:
+    ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-01.png)
+    ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-16.png)
+    ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-27.png) 
+
+    2. Lighthouse test 
+    The SEO and Best Practice scores were high, but all others were in the 40-50 range. I checked the proposed solutions but most required Javascript, which at the time was not in my skillset. 
+
+    I compressed the images using [tinyjpg](https://tinyjpg.com/) to improve performance.
+
+    Here's the current result:
+    ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-54-19.png)
+
+    Other proposed changes that could be implemented with current skill set:
+    - resize images according to screen size
+    - remove unused css rules
+
 
   3. Learning outcomes
+
    1. Technical
-   
-   Images formats: .jpg is for photos, . gif is for animated images, .svg is good icons and scalable items, .png is good if there's not many colors
+
+   * Existence and use of templates, in particular, use of the Chrome inspector to navigate template's css
+   * Improve performance using Lighthouse
+   * Images formats: .jpg is for photos, . gif is for animated images, .svg is good icons and scalable items, .png is good if there's not many colors
+   * Feel more confident with deploying websites using .tk domain
+
    2. Way of working
+
+   * Don't always aim for the top: adjust objectives to context (ex: very little time, unclear demands from client)
+   * Learn to live with a result you're not super happy with, but that meets the requirements of the project, in this case a one-page within a tight deadline
+   * Ask for help
+   * Give yourself some buffer time, so you're able to finish all aspects of the project. In this case, I managed to save some time to deploy the site on a .tk domain i.o. just the github page.
+
+   3. Next time
+   * Ask the others if they run into the same sort of problems, e.g: trouble with using the template
+   * See if some parts of the work can be dealt in small teams, e.g.: have a team synthetizing the text-content, have a team formatting the pictures etc.
+   
