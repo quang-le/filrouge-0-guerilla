@@ -14,11 +14,7 @@ This exercise is Phase 1 "Guerilla style"
     1. The client
 
         1. Presentation
-        CTV Medias is a belgian non-profit active in media education. They offer trainings and workshops aimed at improving people's digital media skills and their critical skills. Basically, they want to support people in becoming digitally literate, active, critical citizens.
-
-        CTV Medias works with young and elderly people, as well as people with disabilities. They organize their own trainings and workshops but also work on demand.
-
-        They are recognized as a permanent education (Education Permanente) by the Fédération Wallonie Bruxelles, which means they receive public funding and their action has to meet certain strict criteria.
+        CTV Medias is a belgian non-profit active in media education. They offer trainings and workshops aimed at improving people's digital media skills and their critical skills. Basically, they want to support people in becoming digitally literate, active, critical citizens. CTV Medias works with young and elderly people, as well as people with disabilities. They organize their own trainings and workshops but also work on demand.They are recognized as a permanent education (Education Permanente) by the Fédération Wallonie Bruxelles, which means they receive public funding and their action has to meet certain strict criteria.
 
         2. Digital presence
         For the exercise, I was notified they had a presence on [Guide Social](https://www.guidesocial.be/ctv/), which is a platform for Belgian non-profits active in the social sector. 
@@ -32,7 +28,7 @@ This exercise is Phase 1 "Guerilla style"
 
     2. Working methodology
   
-    The gist of the exercise was to provide:
+     The gist of the exercise was to provide:
     * a one-pager
     * within a strict 6 hours time limit
 
@@ -53,6 +49,7 @@ This exercise is Phase 1 "Guerilla style"
         * An agenda
         * Contact info
 
+
         2. Choose a template and re-organize information
 
         At first, I started to try and figure out the best way to put it all in one page. For example, I thought a word cloud might be a good way to keep some key words important to the client, while chopping off some unnnecessary text.
@@ -72,11 +69,11 @@ This exercise is Phase 1 "Guerilla style"
         - Drop some intended features of the site.
 
         4. Go for it
-        In the end I would aim to implement:
-        * Who they are
-        * What they do: trainings, workshops, school projects
-        * Show some videos (not enough usable photos)
-        * Contact info
+            In the end I would aim to implement:
+            * Who they are
+            * What they do: trainings, workshops, school projects
+            * Show some videos (not enough usable photos)
+            * Contact info
 
         Content-wise, I had to cut and rephrase the presentation (Who they are). I also had te rephrase and re-organize "what they do" as it wasn't clear in the original website (overlapping categories). I also wanted to implement an agenda, but dropped the idea, as I couldn't find a way to visually integrate it to the template, and the last agenda update on the website was from 2017.
 
@@ -96,6 +93,7 @@ This exercise is Phase 1 "Guerilla style"
 
             Here's the current result:
             ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-54-19.png)
+            
 
             Other proposed changes that could be implemented with current skill set:
             - resize images according to screen size
