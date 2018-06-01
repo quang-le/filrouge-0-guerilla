@@ -50,6 +50,7 @@ This exercise is Phase 1 "Guerilla style"
         * Contact info
 
 
+
         2. Choose a template and re-organize information
 
         At first, I started to try and figure out the best way to put it all in one page. For example, I thought a word cloud might be a good way to keep some key words important to the client, while chopping off some unnnecessary text.
@@ -87,13 +88,14 @@ This exercise is Phase 1 "Guerilla style"
             ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-27.png) 
 
             2. Lighthouse test 
+
             The SEO and Best Practice scores were high, but all others were in the 40-50 range. I checked the proposed solutions but most required Javascript, which at the time was not in my skillset. 
 
             I compressed the images using [tinyjpg](https://tinyjpg.com/) to improve performance.
 
             Here's the current result:
             ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-54-19.png)
-            
+
 
             Other proposed changes that could be implemented with current skill set:
             - resize images according to screen size
