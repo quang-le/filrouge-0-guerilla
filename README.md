@@ -110,6 +110,7 @@ This exercise is Phase 1 "Guerilla style"
         * Improve performance using Lighthouse
         * Images formats: .jpg is for photos, . gif is for animated images, .svg is good icons and scalable items, .png is good if there's not many colors
         * Feel more confident with deploying websites using .tk domain
+        * Markdown is not optimal for long texts. Make smaller READMEs
 
         2. Way of working
 
