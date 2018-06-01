@@ -92,11 +92,13 @@ Learning project divided in 6 phases, spread out throughout the BeCode training.
   5. Result
   
   The one-page has been deployed on [http://ctv-medias.tk/](http://ctv-medias.tk/)
-  
-
-  
+  Here's how it looks:
+  ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-01.png)
+   ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-16.png)
+   ![alt-text](https://github.com/quang-le/filrouge-0-guerilla/blob/master/prntscrn/Capture%20du%202018-06-01%2011-31-27.png)  
 
   3. Learning outcomes
    1. Technical
-   Images formats: .jpg is for photos, . gif is for animated images, .svg is for, .png is good if there's not many colors
+   
+   Images formats: .jpg is for photos, . gif is for animated images, .svg is good icons and scalable items, .png is good if there's not many colors
    2. Way of working
